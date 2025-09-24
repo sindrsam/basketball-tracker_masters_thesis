@@ -1,6 +1,6 @@
 # Real-Time Player Tracking and Control of a Robotic Basketball System
 
-This repository contains the source code and documentation for my Master's thesis at [Your University Name]. The project aims to give a "The Gun 6000" basketball rebounding machine the ability to dynamically track a player on the court and respond to hand gestures.
+This repository contains the source code and documentation for my Master's thesis at NTNU. The project aims to give a "The Gun 6000" basketball rebounding machine the ability to dynamically track a player on the court and respond to hand gestures.
 
 ## Project Goal
 
