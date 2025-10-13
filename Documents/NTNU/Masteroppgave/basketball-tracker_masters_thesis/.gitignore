@@ -1,0 +1,24 @@
+# Build artifacts
+build/
+Build/
+build-*/
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+Makefile
+*.exe
+*.dll
+*.so
+*.a
+*.o
+*.obj
+
+# IDE and user-specific files
+.vscode/
+.vs/
+*.suo
+*.user
+
+# Other
+*.log
+*~
