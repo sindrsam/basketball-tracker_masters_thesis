@@ -1,0 +1,8 @@
+# Backup of Detector.cpp as of successful ONNX Runtime integration
+
+// This file is a backup of the Detector implementation that uses ONNX Runtime
+// It was saved after I verified the application runs and performs detection correctly.
+
+// Keep this file as a restore point before making further edits to the detector.
+
+// Note: The real implementation is in `src/Detector.cpp`.
